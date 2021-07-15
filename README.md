@@ -1,6 +1,6 @@
 ### Welcome to my GitHub.
 
-- My name is Cloud.
+- I am HQSQ or Cloud.
 - My site - https://hqsq.ml
 
 ### My skills:
